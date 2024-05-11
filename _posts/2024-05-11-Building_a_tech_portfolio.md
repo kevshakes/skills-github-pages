@@ -1,5 +1,5 @@
 ---
-title: "Building a Tech Portfolio"
+title: "Building-a-Tech-Portfolio"
 date: 2024-05-11
 ---
 
@@ -35,4 +35,4 @@ In this article, you reviewed three steps to building your tech portfolio: Step 
 ## About the Author
 My name is Kevin Tuei and I am on a mission to make the world a better place through technology. My focus is Cloud and Cybersecurity with a mission to train 100,000 young people across the African Continent as well as lead IT projects that avail local solutions to local problems. 
 
-Connect with me on [LinkedIn](https://linkedin.com/in/kevintuei) and on (Twitter/X)[https://x.com/kevshakes]
+Connect with me on [LinkedIn](https://linkedin.com/in/kevintuei) and on [Twitter/X](https://x.com/kevshakes)
