@@ -1,5 +1,5 @@
 ---
-title: Welcome to my Kevin Tuei's Blog
+title: Welcome to Kevin Tuei's Blog
 ---
 
 # Making the world a better place through technology
